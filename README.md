@@ -78,13 +78,13 @@ The dataset contains information on 32 automobile models from the 1973–74 Moto
 ## Repository Structure
 
 ```
-car-data-analytics-python/
+automobile-data-analysis/
 │
 ├── data/
-│   └── mtcars.csv
+│   └── mtcars2.csv
 │
 ├── notebooks/
-│   └── Car_Data_Analytics.ipynb
+│   └── automobile-data-analysiss.ipynb
 │
 ├── images/
 │   └── charts/
